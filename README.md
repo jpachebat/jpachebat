@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on GiHub!
 - 📫 How to reach me: 
 - email: jpachebat@gmail.com
-- Telephone: +33652510411
 
 <!---
 jpachebat/jpachebat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
